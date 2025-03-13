@@ -1,2 +1,2 @@
 import streamlit as st
-st.title('pàgina1')
+st.title("pàgina1")
